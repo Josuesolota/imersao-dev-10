@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+/* --- Reset e Variáveis Globais --- */
+:root {
+    /* Tema Claro (Padrão) */
+    --cor-primaria: #C62828; /* Vermelho escuro */
+    --cor-secundaria: #E53935; /* Vermelho médio */
+    --cor-fundo: #F4F7F9; /* Cinza bem claro */
+    --cor-texto: #333333;
+    --cor-texto-claro: #666666;
+    --cor-branco: #FFFFFF;
+    --cor-borda: #e0e0e0;
+    --sombra-card: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.dark-mode {
+    /* Tema Escuro */
+    --cor-fundo: #121212;
+    --cor-texto: #E0E0E0;
+    --cor-texto-claro: #BDBDBD;
+    --cor-branco: #1E1E1E; /* Cor de fundo dos cards */
+    --cor-borda: #333333;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+a {
+    color: var(--cor-secundaria);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--cor-primaria);
+}
+
+/* --- Cabeçalho --- */
+header {
+    background-color: var(--cor-branco);
+    padding: 2rem 5%;
+    text-align: center;
+    border-bottom: 1px solid var(--cor-borda);
+}
+
+header h1 {
+    color: var(--cor-primaria);
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.subtitle {
+    color: var(--cor-texto-claro);
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+
+header .search-container {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#caixa-busca {
+    flex-grow: 1;
+    padding: 0.75rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#caixa-busca:focus {
+    outline: none;
+    border-color: var(--cor-primaria);
+    box-shadow: 0 0 0 3px rgba(198, 40, 40, 0.2);
+}
+
+#botao-busca {
+    padding: 0.75rem 1.5rem;
+    background-color: var(--cor-secundaria);
+    color: var(--cor-branco);
+    border: none;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#botao-busca:hover {
+    background-color: var(--cor-primaria);
+}
+
+/* --- Botão de Tema --- */
+.theme-toggle-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: var(--cor-fundo);
+    border: 1px solid var(--cor-borda);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+/* --- Conteúdo Principal e Cards --- */
+main {
+    flex-grow: 1;
+    padding: 2rem 5%;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+}
+
+.card {
+    background-color: var(--cor-branco);
+    border-radius: 10px;
+    padding: 1.5rem;
+    box-shadow: var(--sombra-card);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.card p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--cor-texto-claro);
+}
+
+.card p strong {
+    color: var(--cor-texto);
+    font-weight: 600;
+}
+
+/* --- Rodapé --- */
+.footer {
+    background-color: var(--cor-primaria);
+    color: var(--cor-branco);
+    padding: 1.5rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.footer-copyright {
+    font-weight: 600;
+}
+
+.footer-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.footer-links a svg {
+    width: 24px;
+    height: 24px;
+    fill: var(--cor-branco);
+    transition: opacity 0.3s ease;
+}
+
+.footer-links a:hover svg {
+    opacity: 0.8;
+}

@@ -1,0 +1,147 @@
+[
+    {
+        "nome": "Abscesso Dentário",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/doen%C3%A7as-periodontais/abscesso-dent%C3%A1rio",
+        "descricao": "<strong>Definição:</strong> Acúmulo de pus resultante de uma infecção bacteriana na polpa do dente ou na gengiva.<br><strong>Causa:</strong> Cárie profunda não tratada ou trauma.<br><strong>Tratamento:</strong> Drenagem do abscesso, tratamento de canal ou extração, uso de antibióticos.<br><strong>Prevenção:</strong> Tratamento precoce de cáries."
+    },
+    {
+        "nome": "Aftas (Úlceras Aftosas)",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/feridas-na-boca-e-inflama%C3%A7%C3%A3o/aftas-recorrentes",
+        "descricao": "<strong>Definição:</strong> Pequenas úlceras dolorosas que aparecem na mucosa oral.<br><strong>Causa:</strong> Idiopática, associada a estresse, trauma ou fatores imunológicos.<br><strong>Tratamento:</strong> Geralmente desaparecem sozinhas; pomadas tópicas para alívio da dor.<br><strong>Prevenção:</strong> Evitar gatilhos conhecidos."
+    },
+    {
+        "nome": "Angina de Ludwig",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dos-dentes-e-da-boca/infec%C3%A7%C3%B5es-orais-e-maxilofaciais/angina-de-ludwig",
+        "descricao": "<strong>Definição:</strong> Infecção bacteriana grave e de rápida progressão no assoalho da boca, sob a língua.<br><strong>Causa:</strong> Geralmente se origina de uma infecção dentária (abscesso) que se espalha.<br><strong>Tratamento:</strong> Emergência médica que exige antibióticos intravenosos e possível cirurgia para drenagem e manutenção das vias aéreas.<br><strong>Prevenção:</strong> Tratamento imediato de infecções dentárias."
+    },
+    {
+        "nome": "Bruxismo",
+        "link": "https://www.hospitaldaluz.pt/pt/dicionario-de-saude/bruxismo",
+        "descricao": "<strong>Definição:</strong> Hábito de ranger ou apertar os dentes, especialmente durante o sono.<br><strong>Causa:</strong> Fatores de estresse, ansiedade, desalinhamento dentário.<br><strong>Tratamento:</strong> Placas de mordida, fisioterapia, gerenciamento de estresse.<br><strong>Prevenção:</strong> Reduzir estresse e cafeína antes de dormir."
+    },
+    {
+        "nome": "Câncer de Boca",
+        "link": "https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/boca",
+        "descricao": "<strong>Definição:</strong> Tumor maligno que pode se desenvolver nos lábios, língua, gengiva ou outras áreas da boca.<br><strong>Causa:</strong> Tabagismo, consumo excessivo de álcool, infecção por HPV.<br><strong>Tratamento:</strong> Cirurgia, radioterapia, quimioterapia.<br><strong>Prevenção:</strong> Não fumar, moderar o álcool e realizar autoexame."
+    },
+    {
+        "nome": "Candidíase Oral (Sapinho)",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/sintomas-de-dist%C3%BArbios-orais-e-dent%C3%A1rios/candid%C3%ADase-oral",
+        "descricao": "<strong>Definição:</strong> Infecção fúngica na mucosa oral.<br><strong>Causa:</strong> Crescimento excessivo do fungo Candida albicans.<br><strong>Tratamento:</strong> Medicamentos antifúngicos (tópicos ou sistêmicos).<br><strong>Prevenção:</strong> Manter boa higiene oral e controlar condições subjacentes (ex: diabetes)."
+    },
+    {
+        "nome": "Cárie Dentária",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/c%C3%A1ries/c%C3%A1ries",
+        "descricao": "<strong>Definição:</strong> Destruição dos tecidos duros do dente.<br><strong>Causa:</strong> Ácidos produzidos por bactérias a partir de açúcares.<br><strong>Tratamento:</strong> Restauração (obturação), tratamento de canal ou extração.<br><strong>Prevenção:</strong> Higiene oral adequada, uso de flúor e dieta com baixo teor de açúcar."
+    },
+    {
+        "nome": "Cisto Odontogênico",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dos-dentes-e-da-boca/crescimento-e-doen%C3%A7as-correlatas-da-boca/cistos-orais",
+        "descricao": "<strong>Definição:</strong> Cavidade patológica revestida por epitélio, contendo líquido ou material semi-sólido, associada a um dente.<br><strong>Causa:</strong> Proliferação de restos epiteliais da formação dentária, geralmente estimulada por inflamação ou fatores de desenvolvimento.<br><strong>Tratamento:</strong> Remoção cirúrgica (enucleação) ou marsupialização.<br><strong>Prevenção:</strong> Tratamento de infecções e acompanhamento radiográfico."
+    },
+    {
+        "nome": "Erosão Dentária",
+        "link": "https://www.colgate.com.br/oral-health/erosion/what-is-tooth-erosion-causes-and-treatments",
+        "descricao": "<strong>Definição:</strong> Perda do esmalte dentário por ataque químico de ácidos, sem envolvimento bacteriano.<br><strong>Causa:</strong> Consumo frequente de alimentos e bebidas ácidas, refluxo gastroesofágico.<br><strong>Tratamento:</strong> Restaurações, uso de cremes dentais específicos.<br><strong>Prevenção:</strong> Reduzir a ingestão de ácidos e tratar o refluxo."
+    },
+    {
+        "nome": "Fluorose Dentária",
+        "link": "https://bvsms.saude.gov.br/fluorose-dentaria/",
+        "descricao": "<strong>Definição:</strong> Alteração no esmalte do dente, com manchas brancas ou acastanhadas.<br><strong>Causa:</strong> Ingestão excessiva de flúor durante a formação dos dentes.<br><strong>Tratamento:</strong> Estético, como clareamento ou facetas.<br><strong>Prevenção:</strong> Controlar a ingestão de flúor em crianças."
+    },
+    {
+        "nome": "Gengivite",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/doen%C3%A7as-periodontais/gengivite",
+        "descricao": "<strong>Definição:</strong> Inflamação da gengiva, estágio inicial da doença periodontal.<br><strong>Causa:</strong> Acúmulo de placa bacteriana.<br><strong>Tratamento:</strong> Limpeza profissional e melhora da higiene oral.<br><strong>Prevenção:</strong> Escovação correta e uso de fio dental diariamente."
+    },
+    {
+        "nome": "Glossite",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/sintomas-de-dist%C3%BArbios-orais-e-dent%C3%A1rios/dor-e-inflama%C3%A7%C3%A3o-da-l%C3%ADngua",
+        "descricao": "<strong>Definição:</strong> Inflamação da língua, que pode ficar inchada, lisa e com alteração de cor.<br><strong>Causa:</strong> Deficiências nutricionais (ferro, vitamina B), infecções ou irritações.<br><strong>Tratamento:</strong> Tratar a causa subjacente e manter boa higiene oral.<br><strong>Prevenção:</strong> Dieta balanceada."
+    },
+    {
+        "nome": "Granuloma Periapical",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dos-dentes-e-da-boca/doen%C3%A7as-periodontais/periodontite-apical",
+        "descricao": "<strong>Definição:</strong> Massa de tecido de granulação inflamatório crônico no ápice da raiz de um dente não vital.<br><strong>Causa:</strong> Resposta a uma necrose pulpar (morte do nervo) e infecção bacteriana persistente.<br><strong>Tratamento:</strong> Tratamento de canal (endodôntico) ou extração do dente.<br><strong>Prevenção:</strong> Tratamento precoce de cáries profundas para evitar a necrose pulpar."
+    },
+    {
+        "nome": "Halitose (Mau Hálito)",
+        "link": "https://www.colgate.com.br/oral-health/bad-breath/what-is-bad-breath",
+        "descricao": "<strong>Definição:</strong> Odor desagradável persistente no hálito.<br><strong>Causa:</strong> Má higiene, saburra lingual, doenças gengivais, boca seca ou problemas sistêmicos.<br><strong>Tratamento:</strong> Melhorar a higiene, limpar a língua, tratar a causa subjacente.<br><strong>Prevenção:</strong> Higiene oral rigorosa e hidratação."
+    },
+    {
+        "nome": "Herpes Labial",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/feridas-na-boca-e-inflama%C3%A7%C3%A3o/herpes-labial",
+        "descricao": "<strong>Definição:</strong> Infecção viral que causa pequenas bolhas nos lábios e ao redor da boca.<br><strong>Causa:</strong> Vírus herpes simplex tipo 1 (HSV-1).<br><strong>Tratamento:</strong> Pomadas ou comprimidos antivirais para acelerar a cicatrização.<br><strong>Prevenção:</strong> Evitar contato direto durante surtos e usar protetor solar labial."
+    },
+    {
+        "nome": "Hiperplasia Gengival",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dos-dentes-e-da-boca/doen%C3%A7as-periodontais/hiperplasia-gengival",
+        "descricao": "<strong>Definição:</strong> Aumento do volume da gengiva.<br><strong>Causa:</strong> Efeito colateral de medicamentos (ex: fenitoína, ciclosporina), fatores hormonais ou inflamação.<br><strong>Tratamento:</strong> Gengivectomia (remoção cirúrgica) e controle rigoroso da placa.<br><strong>Prevenção:</strong> Higiene oral impecável e possível substituição do medicamento."
+    },
+    {
+        "nome": "Leucoplasia",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dos-dentes-e-da-boca/crescimento-e-doen%C3%A7as-correlatas-da-boca/leucoplasia-e-eritroplasia",
+        "descricao": "<strong>Definição:</strong> Mancha ou placa branca espessa na mucosa oral que não pode ser raspada. Lesão pré-cancerígena.<br><strong>Causa:</strong> Irritação crônica, principalmente pelo tabaco.<br><strong>Tratamento:</strong> Remoção da fonte de irritação; biópsia e possível remoção cirúrgica.<br><strong>Prevenção:</strong> Cessar o tabagismo e o consumo de álcool."
+    },
+    {
+        "nome": "Líquen Plano Oral",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dermatol%C3%B3gicos/doen%C3%A7as-bolhosas/l%C3%ADquen-plano",
+        "descricao": "<strong>Definição:</strong> Doença inflamatória crônica que afeta a mucosa oral, formando linhas brancas, áreas vermelhas ou úlceras.<br><strong>Causa:</strong> Desconhecida, provavelmente autoimune.<br><strong>Tratamento:</strong> Corticosteroides tópicos para casos sintomáticos.<br><strong>Prevenção:</strong> Não há prevenção específica."
+    },
+    {
+        "nome": "Língua Geográfica",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/sintomas-de-dist%C3%BArbios-orais-e-dent%C3%A1rios/l%C3%ADngua-geogr%C3%A1fica",
+        "descricao": "<strong>Definição:</strong> Condição benigna que causa manchas vermelhas lisas na língua, com bordas brancas, lembrando um mapa.<br><strong>Causa:</strong> Desconhecida.<br><strong>Tratamento:</strong> Geralmente não é necessário; evitar alimentos irritantes se houver sensibilidade.<br><strong>Prevenção:</strong> Não aplicável."
+    },
+    {
+        "nome": "Língua Negra Pilosa",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/sintomas-de-dist%C3%BArbios-orais-e-dent%C3%A1rios/l%C3%ADngua-negra-pilosa",
+        "descricao": "<strong>Definição:</strong> Aparência escura e 'peluda' na superfície da língua.<br><strong>Causa:</strong> Acúmulo de células mortas nas papilas, que se alongam e retêm bactérias/fungos.<br><strong>Tratamento:</strong> Melhorar a higiene oral, incluindo a raspagem da língua.<br><strong>Prevenção:</strong> Higiene lingual regular."
+    },
+    {
+        "nome": "Mucocele",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dos-dentes-e-da-boca/crescimento-e-doen%C3%A7as-correlatas-da-boca/cistos-orais",
+        "descricao": "<strong>Definição:</strong> Pequena bolha ou cisto translúcido, geralmente no lábio inferior, contendo saliva.<br><strong>Causa:</strong> Trauma ou bloqueio de uma glândula salivar menor.<br><strong>Tratamento:</strong> Muitas se rompem sozinhas; pode ser necessária excisão cirúrgica.<br><strong>Prevenção:</strong> Evitar morder os lábios."
+    },
+    {
+        "nome": "Noma (Cancrum Oris)",
+        "link": "https://www.who.int/news-room/fact-sheets/detail/noma",
+        "descricao": "<strong>Definição:</strong> Infecção gangrenosa que destrói rapidamente os tecidos da boca e da face.<br><strong>Causa:</strong> Bactérias que agem em indivíduos com desnutrição grave e sistema imunológico comprometido.<br><strong>Tratamento:</strong> Emergência médica com antibióticos, suporte nutricional e cirurgia reconstrutiva posterior.<br><strong>Prevenção:</strong> Melhorar a nutrição, saneamento e acesso a cuidados de saúde."
+    },
+    {
+        "nome": "Periodontite",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/doen%C3%A7as-periodontais/periodontite",
+        "descricao": "<strong>Definição:</strong> Estágio avançado da doença gengival, com destruição do osso e tecidos que suportam os dentes.<br><strong>Causa:</strong> Gengivite não tratada.<br><strong>Tratamento:</strong> Raspagem e alisamento radicular, cirurgia periodontal.<br><strong>Prevenção:</strong> Tratar a gengivite precocemente e manter excelente higiene oral."
+    },
+    {
+        "nome": "Queilite Angular",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dermatol%C3%B3gicos/infec%C3%A7%C3%B5es-f%C3%BAngicas-da-pele/candid%C3%ADase-mucocut%C3%A2nea",
+        "descricao": "<strong>Definição:</strong> Inflamação e fissuras nos cantos da boca (comissuras labiais).<br><strong>Causa:</strong> Infecção fúngica (Candida), deficiências nutricionais ou acúmulo de saliva.<br><strong>Tratamento:</strong> Pomadas antifúngicas ou antibióticas, correção de deficiências.<br><strong>Prevenção:</strong> Manter a área seca e tratar a causa base."
+    },
+    {
+        "nome": "Sialolitíase (Cálculo Salivar)",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dos-dentes-e-da-boca/doen%C3%A7as-da-gl%C3%A2ndula-salivar/sialolit%C3%ADase",
+        "descricao": "<strong>Definição:</strong> Formação de pedras (cálculos) nos ductos das glândulas salivares.<br><strong>Causa:</strong> Estagnação da saliva e deposição de sais de cálcio.<br><strong>Tratamento:</strong> Estimulação salivar, massagem ou remoção cirúrgica.<br><strong>Prevenção:</strong> Hidratação adequada."
+    },
+    {
+        "nome": "Síndrome da Ardência Bucal",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/sintomas-de-dist%C3%BArbios-orais-e-dent%C3%A1rios/s%C3%ADndrome-da-ard%C3%AAncia-bucal",
+        "descricao": "<strong>Definição:</strong> Sensação de queimação ou dor na boca sem causa aparente.<br><strong>Causa:</strong> Idiopática, possivelmente neuropática ou associada a fatores hormonais e psicológicos.<br><strong>Tratamento:</strong> Focado no alívio dos sintomas, com medicamentos e terapias.<br><strong>Prevenção:</strong> Não há prevenção conhecida."
+    },
+    {
+        "nome": "Tártaro (Cálculo Dental)",
+        "link": "https://www.colgate.com.br/oral-health/gum-disease/what-is-tartar",
+        "descricao": "<strong>Definição:</strong> Placa bacteriana endurecida (mineralizada) que adere ao dente.<br><strong>Causa:</strong> Mineralização da placa não removida.<br><strong>Tratamento:</strong> Remoção por um dentista (tartarectomia).<br><strong>Prevenção:</strong> Remoção eficaz da placa com escovação e fio dental."
+    },
+    {
+        "nome": "Torus Palatino e Mandibular",
+        "link": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dos-dentes-e-da-boca/crescimento-e-doen%C3%A7as-correlatas-da-boca/cistos-orais",
+        "descricao": "<strong>Definição:</strong> Crescimentos ósseos benignos no palato (céu da boca) ou na parte interna da mandíbula.<br><strong>Causa:</strong> Fatores genéticos e funcionais (como bruxismo).<br><strong>Tratamento:</strong> Geralmente não é necessário, exceto se interferir na fala ou na adaptação de próteses.<br><strong>Prevenção:</strong> Não aplicável."
+    },
+    {
+        "nome": "Xerostomia (Boca Seca)",
+        "link": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-boca-e-dos-dentes/sintomas-de-dist%C3%BArbios-orais-e-dent%C3%A1rios/boca-seca",
+        "descricao": "<strong>Definição:</strong> Produção insuficiente de saliva.<br><strong>Causa:</strong> Efeito colateral de medicamentos, radioterapia, doenças como a Síndrome de Sjögren.<br><strong>Tratamento:</strong> Saliva artificial, estimulantes salivares, beber mais água.<br><strong>Prevenção:</strong> Revisar medicação e manter-se hidratado."
+    }
+]
