@@ -87,7 +87,7 @@ BASE-DE-CONHECIMENTO/
 
 Projeto desenvolvido por **Josué Solota**.
 
-[!O meu projecto]()
+[!O meu projecto](https://josuesolota.github.io/imersao-dev-10/)
 [!LinkedIn](https://www.linkedin.com/in/josue-solota)
 [!GitHub](https://github.com/Josuesolota)
 
