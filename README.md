@@ -9,12 +9,6 @@ Um guia de referência rápido e interativo para estudantes e profissionais de O
 
 ---
 
-##  демонстрация
-
-*Insira aqui um screenshot ou GIF do seu projeto em ação. Uma boa ferramenta para criar GIFs é o [ScreenToGif](https://www.screentogif.com/).*
-
-![Demonstração do Projeto](https://via.placeholder.com/800x450.png?text=Adicione+um+screenshot+do+seu+projeto+aqui)
-
 ---
 
 ## ✨ Funcionalidades
